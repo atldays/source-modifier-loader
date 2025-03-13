@@ -1,6 +1,6 @@
 {
   "name": "source-modifier-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Webpack and Rspack loader that lets you modify file contents using a user-defined callback.",
   "keywords": [
     "webpack",
