@@ -2,12 +2,9 @@
 
 [![npm version](https://img.shields.io/npm/v/source-modifier-loader.svg)](https://www.npmjs.com/package/source-modifier-loader)
 [![npm downloads](https://img.shields.io/npm/dm/source-modifier-loader.svg)](https://www.npmjs.com/package/source-modifier-loader)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/atldays/source-modifier-loader/ci.yml?branch=master)](https://github.com/atldays/source-modifier-loader/actions)
-[![Coverage Status](https://img.shields.io/codecov/c/github/atldays/source-modifier-loader/main.svg)](https://codecov.io/github/atldays/source-modifier-loader)
 
-> A customizable Webpack/Rspack loader to modify source files on-the-fly with your own callback function.
+A customizable Webpack/Rspack loader to modify source files on-the-fly with your own callback function.
 
----
 
 ## 📦 Installation
 
@@ -110,14 +107,4 @@ Build the loader:
 ```bash
 npm run build
 ```
-
----
-
-## 📝 Contributing
-
-Feel free to open issues and submit pull requests!
-
----
-
-**Made with ❤️ by [Your Name or Organization]**
 
